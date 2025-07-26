@@ -54,7 +54,7 @@
         </span>
         <span class="dropdown-toggle"></span>
       </button>
-      <ul class="dropdown-menu w-100" style="max-height: 300px; overflow-y: auto;">
+      <ul class="dropdown-menu w-100 mt-2" style="max-height: 300px; overflow-y: auto;">
         <!-- Add search input at the top -->
         <li class="px-3 py-2 border-bottom">
           <input
